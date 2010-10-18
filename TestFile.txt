@@ -1,0 +1,7 @@
+Instructions for connecting to the FTP site from Windows machines:
+1)   Double-click "My Computer" (this brings up Windows Explorer)
+2)   Enter "ftp://ftp.eskimo.com" in the Address bar
+3)   File -> Login As    (then enter the username & password)
+4)   Double-Click "public_html"
+5)   Drag things to/from this window as you would any other folder.
+

@@ -1,0 +1,46 @@
+BODY
+{
+	font-family:"Arial, Helvetica, sans-serif" ;
+	font-size:x-small ;
+	background-color: #ffffff;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+a, a:link, a:visited, a.navbar, a.navbar:link, a.navbar:visited, a.man, a.man:link, a.man:visited 
+{
+	color:#ff0033; 
+	text-decoration: none;
+} 
+a:active
+{
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: #663333 ;
+	text-decoration: underline;
+}
+
+.Table
+{
+	font-family:"Arial, Helvetica, sans-serif" ;
+	font-size:x-small ;
+	vertical-align:top ;
+}
+.tableRow
+{
+	vertical-align:top ;
+}
+.tableCell
+{
+	vertical-align:top ;
+}
+.tableHeader
+{
+	font-family:"Arial, Helvetica, sans-serif" ;
+	font-size:small ;
+}
