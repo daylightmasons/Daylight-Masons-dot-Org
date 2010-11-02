@@ -667,7 +667,7 @@ color:663333;
    <td width="10" background="images/middlelayout_r2_c1.gif" valign="top">&nbsp;</td>
             <td width="511" valign="top">
 
-			<img src="currentnewsletter.gif" width="466" height="41" border="0" alt="This Month's Newsletter & Trestleboard"><br>
+			<img src="currentnewsletter.gif" width="466" height="41" border="0" alt="This Month's Newsletter &nbsp; Trestleboard"><br>
 			<table width="507" cellpadding="0" cellspacing="0" border="0">
 			<tr>
 			<td width="200" valign="top">
@@ -675,176 +675,29 @@ color:663333;
 
 			<img src="images/blank.gif" width="150" height="1" border="0" alt=""><br>
 
-			
-
-<br>
-			<a href="trestleboard/100821_August Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">August 2010</a><br>
-
-			
-
-
-<br>
-			<a href="trestleboard/100710-17_July_Trestleboard.2.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">July 2010</a><br>
-
-			
-
-
-<br>
-			<a href="trestleboard/100626_June_Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">June 2010</a><br>
-
-			
-
-
-<br>
-			<a href="trestleboard/100515_May Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">May 2010</a><br>
-
-			
-
-
-<br>
-			<a href="trestleboard/100417_April Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">April 2010</a><br>
-
-			
-
-
-<br>
-			<a href="trestleboard/100320_ March Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">March 2010</a><br>
-
-			
-
-<br>
-			
-			
-			<a href="trestleboard/100220_ February Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">February 2010</a><br>
-
-			<br>
-			<a href="trestleboard/100115_January Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">January 2010</a><br>
-
-			<br>
-			<a href="trestleboard/091205_December_MM _Degree_Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">December 2009</a><br>
-			<br>
-			<a href="trestleboard/091121_November Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">November 2009</a><br>
-
-			<br>
-			<a href="trestleboard/091017 October Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">October 2009</a><br>
-			<br>
-			<a href="trestleboard/090919 September Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">September 2009</a><br>
-
-			<a href="trestleboard/090815_August_Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">August 2009</a><br>
-			
-
-			<a href="trestleboard/09071118-July Trestleboard.3.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">July 2009</a><br>
-			
-			
-			<a href="trestleboard/090627_June Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">June 2009</a><br>
-			
-			<a href="trestleboard/090516_May_Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">May 2009</a><br>
-			
-			
-
-
-
-			<a href="trestleboard/090418_April%20Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">April 2009</a><br>
-
-
-
-			<a href="trestleboard/090321_March%20Trestleboard.pdf">
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt="">March 
-			2009</a><br>
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt=""><a href="trestleboard/090221_February_Trestleboard.pdf">February 
-			2009</a><br>
-
-
-
-			<img src="pdf.gif" width="38" height="38" border="0"  alt=""><a href="trestleboard/090117_January%20Trestleboard.pdf">January 
-			2009</a><br>
-
-
-
-			<br>
-
-
-
-			<br>
-
-
-
-			<a href="seattle_masonic_lodge_newsletters2.html"><img src="pdf.gif" width="38" height="38" border="0"  alt="">Visit 
-			Our Archives</a>
+<?php
+	if (array_key_exists("year", $_GET)) {
+		$year = $_GET["year"];
+	} else {
+		$year = Date("Y");
+	}
+			$currentYear = date("y");
+	    /* This is the correct way to loop over the directory. */
+			$files = scandir("trestleboard/". $year, 1);
+	    foreach ($files as $file) {
+				if (preg_match('/\d{6}_\w+\.pdf/', $file)) {
+						echo '<br/>';
+						echo '<a href="trestleboard/' . $file . '">';
+						$explodedFile = explode("_", $file);
+						echo '<img src="pdf.gif" width="38" height="38" border="0"  alt="">' . $explodedFile[1] . ' 20' . substr($explodedFile[0], 0, 2) . '</a><br/>';
+				}
+				
+	    }
+?>	
+
+
+<!-- <a href="seattle_masonic_lodge_newsletters2.html"><img src="pdf.gif" width="38" height="38" border="0"  alt="">Visit 
+Our Archives</a> -->
 
 
 </font><br><br></td>
