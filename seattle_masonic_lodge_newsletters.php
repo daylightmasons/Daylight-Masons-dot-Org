@@ -687,7 +687,7 @@ color:663333;
 	    foreach ($files as $file) {
 				if (preg_match('/\d{6}_\w+\.pdf/', $file)) {
 						echo '<br/>';
-						echo '<a href="trestleboard/' . $file . '">';
+						echo '<a href="trestleboard/' . $year . '/'.$file . '">';
 						$explodedFile = explode("_", $file);
 						echo '<img src="pdf.gif" width="38" height="38" border="0"  alt="">' . $explodedFile[1] . ' 20' . substr($explodedFile[0], 0, 2) . '</a><br/>';
 				}
