@@ -635,7 +635,7 @@ color:663333;
    <a href = "seattle_masonic_lodge_officers.html" 
  onMouseOver = "imgAct('img4')" 
  onMouseOut = "imgInact('img4')"><img name="img4" src="off_officers.gif" width="152" height="38" border="0" alt="Officers Of Daylight Masonic Lodge"></a><br>
-   <a href = "seattle_masonic_lodge_newsletters.phpletters.html" 
+   <a href = "seattle_masonic_lodge_newsletters.php" 
  onMouseOver = "imgAct('img5')" 
  onMouseOut = "imgInact('img5')"><img name="img5" src="off_newsletters.gif" width="152" height="38" border="0" alt="Newsletters By Daylight Masonic Lodge"></a><br>
 <a href = "seattle_masonic_lodge_clipart.html" 
@@ -737,7 +737,7 @@ Adobe Acrobat Reader</a>
 <table border="0" cellpadding="0" cellspacing="0" width="700" bgcolor="#ffffff">
 <tr>
 <td align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-<a href="./">Home Page</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_history.html">About Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_membership.html">Join Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_events.html">Lodge Events</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_officers.html">Lodge Officers</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_newsletters.phpletters.html">Newsletters</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_clipart.html">Masonic Art</a>
+<a href="./">Home Page</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_history.html">About Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_membership.html">Join Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_events.html">Lodge Events</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_officers.html">Lodge Officers</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_newsletters.php">Newsletters</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_clipart.html">Masonic Art</a>
 
 </font>
 <br><br>
