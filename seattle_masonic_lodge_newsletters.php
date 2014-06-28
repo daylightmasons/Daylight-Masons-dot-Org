@@ -1,10 +1,10 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+﻿<html>
 <head>
 <title>Daylight Lodge-Seattle's Masonic Lodge Of The Arts</title>
 <meta name="description" Content="Daylight Lodge is Seattle's Masonic Lodge of the Arts.  Site includes information about the history of the lodge, events, activities, and membership.">
 <meta name="keywords" Content="seattle masonic lodges, daylight lodge, fremont solstice festival, seattle youth symphony, social activities, arts, culture, symphony, artists, free masons, washington masonic lodges, becoming a freemason, clipart, masonic history, fellowship, membership, liberal arts students, building trade, community involvement, fellowship, liberal arts and sciences, green lake area, non-profit organizations, associations">
 
-<SCRIPT LANGUAGE = "JavaScript">
+<SCRIPT LANGUAGE ="JavaScript">
 <!--
 // Detect if browser is Netscape 3 + or IE 4 +.
 bName = navigator.appName;
@@ -135,49 +135,451 @@ window.defaultStatus='';
 
 <style>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 a:hover{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 color:663333;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.style7 {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	color: #ff0033;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	text-decoration: none;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .style6 {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	color: #FFFFFF;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	font-size: small;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 .style4 {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	font-size: xx-small;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .style5 {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	font-size: small;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 .style3 {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	color: #FFFFFF;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
-.style7 {
 
-	color: #ff0033;
 
-	text-decoration: none;
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </style>
 </head>
@@ -190,6 +592,7 @@ color:663333;
    <td><img src="images/spacer.gif" width="8" height="1" border="0"></td>
    <td><img src="images/spacer.gif" width="135" height="1" border="0"></td>
    <td><img src="images/spacer.gif" width="285" height="1" border="0"></td>
+
    <td><img src="images/spacer.gif" width="112" height="1" border="0"></td>
    <td><img src="images/spacer.gif" width="8" height="1" border="0"></td>
    <td><img src="images/spacer.gif" width="1" height="1" border="0"></td>
@@ -199,6 +602,7 @@ color:663333;
    <td colspan="3"><img name="design2_r1_c1" src="images/design2_r1_c1.gif" width="295" height="120" border="0"></td>
    <td><img name="design2_r1_c4" src="images/design2_r1_c4.gif" width="285" height="120" border="0"></td>
    <td colspan="2"><img name="design2_r1_c5" src="images/design2_r1_c5.gif" width="120" height="120" border="0"></td>
+
    <td><img src="images/spacer.gif" width="1" height="120" border="0"></td>
   </tr>
   <tr>
@@ -208,6 +612,7 @@ color:663333;
    <td><img src="images/spacer.gif" width="1" height="46" border="0"></td>
   </tr>
   <tr>
+
    <td colspan="3"><img name="design2_r3_c1" src="images/design2_r3_c1.gif" width="295" height="25" border="0"></td>
    <td><img name="design2_r3_c4" src="images/design2_r3_c4.gif" width="285" height="25" border="0"></td>
    <td colspan="2"><img name="design2_r3_c5" src="images/design2_r3_c5.gif" width="120" height="25" border="0"></td>
@@ -215,7 +620,7 @@ color:663333;
   </tr>
   <tr>
    <td width="152" valign="top" background="images/design2_r4_c1.gif">
-   <a href="http://www.daylightmasons.org/" 
+   <a href="./" 
  onMouseOver = "imgAct('img0')" 
  onMouseOut = "imgInact('img0')"><img name="img0" src="off_home.gif" width="152" height="38" border="0" alt="Home Page"></a><br>
    <a href = "seattle_masonic_lodge_history.html" 
@@ -230,7 +635,7 @@ color:663333;
    <a href = "seattle_masonic_lodge_officers.html" 
  onMouseOver = "imgAct('img4')" 
  onMouseOut = "imgInact('img4')"><img name="img4" src="off_officers.gif" width="152" height="38" border="0" alt="Officers Of Daylight Masonic Lodge"></a><br>
-   <a href = "seattle_masonic_lodge_newsletters.html" 
+   <a href = "seattle_masonic_lodge_newsletters.php" 
  onMouseOver = "imgAct('img5')" 
  onMouseOut = "imgInact('img5')"><img name="img5" src="off_newsletters.gif" width="152" height="38" border="0" alt="Newsletters By Daylight Masonic Lodge"></a><br>
 <a href = "seattle_masonic_lodge_clipart.html" 
@@ -248,6 +653,7 @@ color:663333;
    <td width="8" valign="top" background="images/design2_r4_c2.gif">&nbsp;</td>
    <td colspan="3" valign="top" align="center">
    <table border="0" cellpadding="0" cellspacing="0" width="530" bgcolor="#99ccff">
+
 <!-- fwtable fwsrc="middlelayout.png" fwbase="middlelayout.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
   
 
@@ -259,70 +665,58 @@ color:663333;
   </tr>
   <tr>
    <td width="10" background="images/middlelayout_r2_c1.gif" valign="top">&nbsp;</td>
-            <td width="511" valign="top"><font face="Arial, Helvetica, sans-serif" size="2">
-              <p><img src="officers.gif" width="466" height="41" border="0" alt="Elected Officers Of Daylight Lodge"><br>
+            <td width="511" valign="top">
+
+			<img src="currentnewsletter.gif" width="466" height="41" border="0" alt="This Month's Newsletter &nbsp; Trestleboard"><br>
+			<table width="507" cellpadding="0" cellspacing="0" border="0">
+			<tr>
+			<td width="200" valign="top">
+			<font face="Arial, Helvetica, sans-serif" size="2"> 
+
+			<img src="images/blank.gif" width="150" height="1" border="0" alt=""><br>
+
+<?php
+	if (array_key_exists("year", $_GET)) {
+		$year = $_GET["year"];
+	} else {
+		$year = Date("Y");
+	}
+			$currentYear = date("y");
+	    /* This is the correct way to loop over the directory. */
+			$files = scandir("trestleboard/". $year, 1);
+	    foreach ($files as $file) {
+				if (preg_match('/\d{6}_\w+\.pdf/', $file)) {
+						echo '<br/>';
+						echo '<a href="trestleboard/' . $year . '/'.$file . '">';
+						$explodedFile = explode("_", $file);
+						echo '<img src="pdf.gif" width="38" height="38" border="0"  alt="">' . $explodedFile[1] . ' 20' . substr($explodedFile[0], 0, 2) . '</a><br/>';
+				}
+				
+	    }
+?>	
 
 
-
-                <strong>W&there4;</strong><em> </em>
-
-
-                <em><font face="Arial, Helvetica, sans-serif" size="2">
-              <a href="http://daylightmasons.org/Andy_Adnerson.html">ANDY ANDERSON</a> 
-				</font>- WORSHIPFUL MASTER</em><br>
-                <br>
+<!-- <a href="seattle_masonic_lodge_newsletters.phpletters2.html"><img src="pdf.gif" width="38" height="38" border="0"  alt="">Visit 
+Our Archives</a> -->
 
 
-                <em><font face="Arial, Helvetica, sans-serif" size="2">
-              <a href="David_Choe.html">DAVID CHOE </a></font>&nbsp;- SENIOR WARDEN</em><br>
-                <br>
+</font><br><br></td>
+<td width="10" valign="top" background="images/column.gif">&nbsp;</td>
+<td width="290" valign="top">
+<font face="Arial, Helvetica, sans-serif" size="2">
 
-                <em>Franklin Donahoe - JUNIOR WARDEN</em><br>
-                <br>
-                <strong>V&there4;W&there4;</strong><strong> </strong><em><a href="http://daylightmasons.org/James_Maher.html">JAMES R. MAHER</a> TREASURER</em><br>
-                <br>
-                <strong>W&there4; </strong><font face="Arial, Helvetica, sans-serif" size="2">
-              <em> <a href="http://www.daylightmasons.org/Anthony_Monaco.html">ANTHONY MONACO</a> </em>
-				</font><em>SECRETARY</em><br>
-                <br>
-                <!--
-<img src="vw.gif" width="53" height="16" border="0" alt="">&nbsp;<em>DAVID JULIAN - MUSICIAN</em><br><img src="DAVIDJULIAN.gif" width="143" height="145" border="0" align="left" alt=""><br>
+Our Trestleboards are in the Adobe Acrobat (.PDF) format. If you do not have 
+Adobe&#39;s Acrobat Reader installed on your computer, visit the following link and 
+follow the easy installation instructions. <br><br> 
+To download the free Adobe Acrobat Reader click:  <br>
+<a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">
+Adobe Acrobat Reader</a>
+</font><br><br><br><br><br>
+</td>
 
-David Julian, Daylights musician of few equals is a Past Master thrice over.  He first served the lodge as Master in 1989 and then again in 2001-2002 and 2002-2003.  He is now serving once again as the Grand Musician.  Prior to June 2005 the office was called Grand Organist but Brother David complained that he was not an organist but actually a musician and at Daylights suggestion the Grand Lodge agreed and changed the official title not only for Grand Lodge but in all Washington lodges.  He also served as Grand Bible bearing in 1997-1998 and is one of five members to have been the Deputy of the Grand Master in District # 5 from 1998-2000.  He is also musician for St. Johns Lodge # 9.
+</table>
 
-He furnished the entertainment for the 1983 Doric Lodge Installation of Officers.  When asked if he was a Mason, he explained that even though his father was a Past Master, because he worked nights he could not be one.  Wrong thing to say to a future Grand Master who promptly directed him to Daylights secretary and in June of 1983 his father helped raise him as a Master Mason. He brought a more up to date, refreshingly contemporary sound to the lodge when he became the lodge musician.
-
-He attend college to study music but decided that practice was better than the professors theories and lectures, that the real world of performing was by far the best teacher so he left the University of Colorado School of Music to perform in concerts and night-clubs, to produce radio and TV commercials.  Now retired from full time club work, he runs his own business rescuing downed computers but continues to provide music for lodges, often with his wife Beverly.  He is also active as the leader of a small pop guitar quartet that performs in the Seattle area.  In 2002 when asked to take the job of Master a third time, he agreed provided the young members found a way to rejuvenate the lodge and with the help of Anthony Monaco and Past Master Jay Losey lead the way to the lodges current success.
-<br><br>
---><br>
-
-                <!--<img src="w.gif" width="32" height="16" border="0" alt="">&nbsp;<em>CLEO B. McCORD - Tiler</em><br><img src="tiler.gif" width="150" height="131" border="0" align="left" alt="">He may have been born November 25, 1912 in Muncie, Indiana but Tiler Cleo McCord is a prime example of the adage, It isnt age, its attitude.  Cleo is often the first welcoming face a visitor or new members sees when he visits Daylight.   The new member being prepared to be made a Mason is sure to find Cleo guiding, advising and assuring them that they have made the right step in joining Daylight.  
-
-Lodge records show that he was one of the oldest Masters of the lodge but his ideas have hardly been aged.  While he may not keep up with the lodges young officers physically, his ideas are very much in keeping with theirs and he believes that the future of Masonry and Daylight Lodge is now firmly in their hands.  During his year as Master in June of 1997 the lodge had its first contact with the Fremont Solstice Festival which was to lead to the highly successful band stand and Masonic Information Booth.
-
-He first served as a Master in Spokanes North Hill Lodge # 210 in 1962.  He was made a Mason in that lodge 1948 and affiliated with Daylight shortly after moving to the Masonic Retirement Center in 1994.  He served as the Master of Wayfarers Lodge # 280 in 1995 and also is tiler for Tyee # 115, the Wayfarers Daylight Lodge in Renton.  He was Junior Grand Steward in 1997-1998.  At his age he continues to be and inspiration to Daylights kids offering them sage advise, wise counsel and encouragement to try new ideas.
-<br><br> -->
-                <b>
-The Officers appointed to serve the Worshipful Master are:</b><br>
-                
-                Chaplain - Jon Alcantara<br>
-                Marshal - Sam Ali<br>
-                Senior Deacon - Dathean Luna<br>
-                Junior Deacon - Erik Hill<br>
-                Senior Steward - Matt Kirk<br>
-                Junior Steward - Richard Rodgers<br>
-                Musician - <strong>V&there4;W&there4; </strong><a href="David_Julian.html">David Julian</a><br>
-              Tiler - Mitch Anderson</p>
-              <p>&nbsp;</p>
-              <p align="center"><strong>Explanation of Titles and abbreviations of Titles:</strong></p>
-              <p align="center"><strong>M&there4;W&there4;</strong> - Most Worshipful - a title held only by a  Grand Master or Past Grand Master<br>
-                <strong>R&there4;W&there4;</strong>&nbsp;&nbsp;- Right Worshipful&nbsp; - an elected or past elected Grand Lodge  officer<br>
-                <strong>V&there4;W</strong>&there4; - Very Worshipful &ndash; a Deputy or past Deputy of the Grand Master<strong><br>
-                W&there4;</strong> - Worshipful&nbsp; - a Master or past  Master of a Lodge</p>              
-              <p><br>
-                <br>
-              </p>
-            </td>
+ </td>
    <td width="9" background="images/middlelayout_r2_c3.gif">&nbsp;</td>
      </tr>
   <tr>
@@ -332,6 +726,7 @@ The Officers appointed to serve the Worshipful Master are:</b><br>
 </table>
    </td>
    <td width="8" background="images/design2_r4_c6.gif" valign="top">&nbsp;</td>
+
    <td><img src="images/spacer.gif" width="1" height="92" border="0"></td>
   </tr>
   <tr>
@@ -342,10 +737,27 @@ The Officers appointed to serve the Worshipful Master are:</b><br>
 <table border="0" cellpadding="0" cellspacing="0" width="700" bgcolor="#ffffff">
 <tr>
 <td align="center"><font face="Arial, Helvetica, sans-serif" size="2">
-<a href="http://www.daylightmasons.org/">Home Page</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_history.html">About Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_membership.html">Join Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_events.html">Lodge Events</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_officers.html">Lodge Officers</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_newsletters.html">Newsletters</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_clipart.html">Masonic Art</a>
-</font><br><br>
+<a href="./">Home Page</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_history.html">About Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_membership.html">Join Lodge</a>&nbsp;&nbsp;<a href="seattle_masonic_events.html">Lodge Events</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_officers.html">Lodge Officers</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_newsletters.php">Newsletters</a>&nbsp;&nbsp;<a href="seattle_masonic_lodge_clipart.html">Masonic Art</a>
+
+</font>
+<br><br>
 </td>
 </table>
 </div>
+
+
+                    <!-- BEGIN TRACKING CODE --> 
+                    <script type="text/javascript" language="JavaScript">
+                        var FCProAccountId = 'ff977cf1-8ea1-4622-a5c1-63b03a4ca692';
+                        var ServerName = 'daylight232-web-officelive-com.sitereports.officelive.com';
+                    </script>
+                    <script type="text/javascript" language="JavaScript" src="http&#58;&#47;&#47;daylight232-web-officelive-com.sitereports.officelive.com&#47;js&#47;restats_static.js">
+                    </script>
+                    <noscript>
+                        <img src="http&#58;&#47;&#47;daylight232-web-officelive-com.sitereports.officelive.com&#47;FCPISAPI&#47;ISAPIExtn.dll&#47;i&#47;ff977cf1-8ea1-4622-a5c1-63b03a4ca692&#47;0" style="display:none;visibility:hidden"/>
+                    </noscript>
+                <!-- END TRACKING CODE -->
+                
+
 </body>
 </html>
